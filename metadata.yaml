@@ -1,0 +1,30 @@
+_repo: The-Winter-Solstice-Altars-at-Hano-Pueblo_42175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fewkes, Jesse Walter
+    alias: Fewkes, J. Walter (Jesse Walter)
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7741'
+    url: http://www.gutenberg.org/2009/agents/7741
+    wikipedia: http://en.wikipedia.org/wiki/J._Walter_Fewkes
+description: ''
+gutenberg_issued: '2013-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Arizona'
+- !lcc 'E011'
+- !lcsh 'Hopi Indians -- Religion'
+- !lcsh 'Indian mythology -- North America'
+title: The Winter Solstice Altars at Hano Pueblo
+url: http://www.gutenberg.org/ebooks/42175
